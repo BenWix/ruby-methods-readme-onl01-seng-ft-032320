@@ -18,3 +18,5 @@ def say_hello_ten_times
     puts phrase
   end 
 end 
+
+say_hello_ten_times
